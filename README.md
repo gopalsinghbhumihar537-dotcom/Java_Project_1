@@ -78,7 +78,7 @@ Elapsed Time: 2000 ms
 ---
 
 ## 📸 Screenshot
-Output
+Screenshot.png
 
 ---
 
