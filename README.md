@@ -30,14 +30,14 @@ This project is created to:
 
 ---
 
- ⚙ How It Works
+## ⚙ How It Works
 - Uses System.currentTimeMillis() to track time  
 - Calculates elapsed time when stopped  
 - Displays time when selected from menu  
 
 ---
 
- ▶ How to Run
+## ▶ How to Run
 
 Compile:
 javac Main.java
@@ -47,7 +47,7 @@ java Main
 
 ---
 
-📋 Menu Options
+## 📋 Menu Options
 1 → Start  
 2 → Stop  
 3 → Reset  
@@ -56,13 +56,13 @@ java Main
 
 ---
 
- 📂 Project Structure
+## 📂 Project Structure
 - Stopwatch class → logic  
 - Main class → user interaction  
 
 ---
 
-💡 Sample Output
+## 💡 Sample Output
 ===== STOPWATCH MENU =====
 1. Start
 2. Stop
@@ -77,12 +77,12 @@ Elapsed Time: 2000 ms
 
 ---
 
-📸 Screenshot
-![Output](screenshot.png)
+## 📸 Screenshot
+![Output](Output.png)
 
 ---
 
- 🔮 Future Scope
+## 🔮 Future Scope
 - GUI version  
 - Lap feature  
 - Web/Mobile version  
