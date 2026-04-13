@@ -78,7 +78,8 @@ Elapsed Time: 2000 ms
 ---
 
 ## 📸 Screenshot
-Screenshot.png
+(Add your screenshot here)
+![Output](Screenshot.png)
 
 ---
 
